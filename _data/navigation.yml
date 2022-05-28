@@ -1,7 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: https://repping.github.com/
+  - title: "Blog"
+    url: https://repping.github.com/blog
+  - title: "Code"
+    url: https://repping.github.com/code
+  - title: "Projects"
+    url: https://repping.github.com/projects
+  - title: "Presentations"
+    url: https://repping.github.com/presentations
+  - title: "About"
+    url: https://repping.github.com/about
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
