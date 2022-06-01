@@ -1,13 +1,9 @@
 # main links
 main:
-  - title: "Home"
-    url: https://repping.github.com/
   - title: "Blog"
     url: https://repping.github.com/blog
   - title: "Code"
     url: https://repping.github.com/code
-  - title: "Projects"
-    url: https://repping.github.com/projects
   - title: "Presentations"
     url: https://repping.github.com/presentations
   - title: "About"
