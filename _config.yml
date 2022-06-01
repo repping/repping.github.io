@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Richard Eppingbroek"
-  avatar           : "/assets/images/88x88.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/dapica.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DevOps engineer"
   location         : "Netherlands"
   # email            :
