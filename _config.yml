@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Richard Eppingbroek"
   avatar           : "/assets/images/dapica.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "DevOps engineer \n at Adfinis IT Netherlands"
+  bio              : "DevOps engineer at Adfinis IT"
   location         : "Netherlands"
   # email            :
   links:
