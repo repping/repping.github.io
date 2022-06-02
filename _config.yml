@@ -106,13 +106,16 @@ analytics:
 author:
   name             : "Richard Eppingbroek"
   avatar           : "/assets/images/dapica.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "DevOps engineer"
+  bio              : "DevOps engineer \n at Adfinis IT Netherlands"
   location         : "Netherlands"
   # email            :
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/reppingbroek/"
+    - label: "Adfinis IT"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.adfinis.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/repping"
