@@ -3,13 +3,9 @@ excerpt: "But where does it all come from?"
 toc: true
 header:
   teaser: /assets/images/500x300.png
-  overlay_image: /assets/iamges/header_placeholder.png
-  caption: "Simple test with header images."
-  actions:
-    - label: More test!
-      url: "https:www.robertdebock.nl"
+  overlay_color: "#333"
 ---
-# First!
+# Back at it again
 
 ## Second :)
 “Well-being is realised by small steps, but is no small thing.” -Wiseguy
