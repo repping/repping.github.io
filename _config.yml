@@ -111,7 +111,7 @@ author:
   # email            :
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/reppingbroek/"
     - label: "Adfinis IT"
       icon: "fas fa-fw fa-link"
