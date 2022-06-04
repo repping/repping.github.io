@@ -3,4 +3,4 @@ layout: single
 permalink: /video/
 ---
 
-# Video's
+## Video's

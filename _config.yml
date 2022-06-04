@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Repping"
+title                    : "" # I left this one empty because header.overlay_images also show this ontop of the header image if no title is configured for that header. This way you can have a plain header.overlay_images, i.e. just a header image with nothing else.
 title_separator          : "-"
 subtitle                 : Personal Github page.
 name                     : "Richard Eppingbroek"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "repping/repping.github.io"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Repping" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
