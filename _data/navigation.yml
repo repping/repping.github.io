@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Blog"
-    url: https://repping.github.com/blog
+    url: /blog/
   - title: "Code"
-    url: https://repping.github.com/code
+    url: /code/
   - title: "Video"
-    url: https://reppingbroek.github.com/video
+    url: /video/
   - title: "Presentations"
-    url: https://repping.github.com/presentations
+    url: /presentations/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
