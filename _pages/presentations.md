@@ -1,5 +1,6 @@
 ---
 layout: single
+permalink: /presentations/
 sidebar:
   - title: "Title"
     image: http://placehold.it/350x250
