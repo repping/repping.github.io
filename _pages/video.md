@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /video/
+title: "Video"
 ---
 
-## Video's
+All video content I am involved with in any way :)

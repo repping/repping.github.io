@@ -1,7 +1,8 @@
 ---
 layout: archive
 permalink: /blog/
-title: "title"
+title: "Blog"
 ---
 
-## Blog: Hear, hear, Apples logo is now a pear!
+
+Hear, hear, Apples logo is now a pear!

@@ -2,13 +2,13 @@
 layout: single
 permalink: /presentations/
 sidebar:
-  - title: "Title"
+  - title: "Presentations"
     image: http://placehold.it/350x250
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
-title: "title"
+title: "Presentations"
 excerpt: "excerpt"
 header:
   overlay_image: /assets/images/header_landingpage.png
@@ -18,7 +18,7 @@ header:
 ---
 
 
-# Presentations
+# Introduction
 
 ## Hashicorp Terraform
 

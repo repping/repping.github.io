@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /code/
-title: "title"
+title: "Code"
 ---
 
-# Code: Automation & CI/CD
+# Automation & CI/CD
