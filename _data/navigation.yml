@@ -4,6 +4,8 @@ main:
     url: https://repping.github.com/blog
   - title: "Code"
     url: https://repping.github.com/code
+  - title: "Video"
+    url: https://reppingbroek.github.com/video
   - title: "Presentations"
     url: https://repping.github.com/presentations
   # - title: "About"
