@@ -10,6 +10,7 @@ sidebar:
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
+    image: /assets/images/500x300.png
     text: "More text here."
 header:
   overlay_image: /assets/images/header_landingpage.png
