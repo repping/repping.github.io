@@ -3,19 +3,35 @@ layout: archive
 permalink: /blog/
 title: "Blog"
 ---
+Hear, hear, Apples logo is now a pear!
+
+
+
+{% for post in site.posts %}
+|<a href="{{ post.url }}">{{ post.title }}</a>|
+|-|
+|{{ post.excerpt }}|
+{% endfor %}
+
+
+|Posts|
+|-|
+|{% for post in site.posts %}<a href="{{ post.url }}">{{ post.title }}</a><br>{{ post.excerpt }}<br>{% endfor %}|
+
+
 
 <!-- # List of all posts -->
-<ul>
+<!-- <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
-</ul>
+</ul> -->
 
 <!-- # List of posts with a specific TAG -->
-{% for tag in site.tags %}
+<!-- {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
@@ -23,10 +39,10 @@ title: "Blog"
       {{ post.excerpt }}
     {% endfor %}
   </ul>
-{% endfor %}
+{% endfor %} -->
 
 <!-- # List of posts with a specific CATEGORY -->
-{% for category in site.categories %}
+<!-- {% for category in site.categories %}
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
@@ -34,10 +50,8 @@ title: "Blog"
       {{ post.excerpt }}
     {% endfor %}
   </ul>
-{% endfor %}
+{% endfor %} -->
 
 
 <!-- More info: https://jekyllrb.com/docs/posts/ -->
 
-
-Hear, hear, Apples logo is now a pear!
