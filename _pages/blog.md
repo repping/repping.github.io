@@ -6,17 +6,12 @@ title: "Blog"
 Hear, hear, Apples logo is now a pear!
 
 
-
+#### posts
+____
 {% for post in site.posts %}
-|<a href="{{ post.url }}">{{ post.title }}</a>|
-|-|
-|{{ post.excerpt }}|
-{% endfor %}
-
-
-|Posts|
-|-|
-|{% for post in site.posts %}<a href="{{ post.url }}">{{ post.title }}</a><br>{{ post.excerpt }}<br>{% endfor %}|
+<a href="{{ post.url }}">{{ post.title }}</a><br>
+{{ post.excerpt }}<br><br>
+{% endfor %}|
 
 
 
