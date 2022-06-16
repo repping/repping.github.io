@@ -8,9 +8,7 @@ header:
   overlay_color: "#166"
 tags: placeholder Ansible
 ---
-# On the road
-
-## Second :)
+## On the road
 “Well-being is realised by small steps, but is no small thing.” -Wiseguy
 And I suppose the same thing goes for a a personal webpage. The first post is a small en perhaps meaningless article, but it is the first step to building a personal page.
 As long as you do not count installing/configuring Jekyll that is :) \n\n
