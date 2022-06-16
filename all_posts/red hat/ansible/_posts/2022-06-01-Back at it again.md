@@ -1,12 +1,13 @@
 ---
-excerpt: "But where does it all come from?"
+# excerpt: "But where does it all come from?"
+# excerpt_separator: <!--more-->
 toc: true
-classes: wide
 header:
   teaser: /assets/images/500x300.png
-  overlay_color: "#166"
+  overlay_color: "#333"
+  tags: placeholder Terraform
 ---
-# On the road
+# Back at it again
 
 ## Second :)
 “Well-being is realised by small steps, but is no small thing.” -Wiseguy

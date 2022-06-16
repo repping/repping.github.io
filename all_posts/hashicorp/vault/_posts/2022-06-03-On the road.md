@@ -1,11 +1,14 @@
 ---
-excerpt: "But where does it all come from?"
+# excerpt: "But where does it all come from?"
+# excerpt_separator: <!--more-->
 toc: true
+classes: wide
 header:
   teaser: /assets/images/500x300.png
-  overlay_color: "#333"
+  overlay_color: "#166"
+tags: placeholder Ansible
 ---
-# Back at it again
+# On the road
 
 ## Second :)
 “Well-being is realised by small steps, but is no small thing.” -Wiseguy
