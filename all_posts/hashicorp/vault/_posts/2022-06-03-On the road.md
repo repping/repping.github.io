@@ -7,6 +7,7 @@ header:
   teaser: /assets/images/500x300.png
   overlay_color: "#166"
 tags: placeholder Ansible
+author_profile: true
 ---
 
 “Well-being is realised by small steps, but is no small thing.” -Wiseguy

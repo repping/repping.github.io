@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/500x300.png
   overlay_color: "#333"
   tags: placeholder Terraform
+author_profile: true
 ---
 
 “Well-being is realised by small steps, but is no small thing.” -Wiseguy

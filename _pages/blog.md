@@ -3,9 +3,14 @@ layout: archive
 classes: wide
 permalink: /blog/
 title: "BLog"
-author_profile: true
+author_profile: false
 header:
   overlay_image: /assets/images/header_landingpage.png
+sidebar:
+  - title: "Blog"
+    image: /assets/images/500x300.png
+    image_alt: "image"
+    text: "Some text here."
 ---
 
 {% for post in site.posts %}
