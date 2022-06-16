@@ -2,8 +2,8 @@
 layout: archive
 classes: wide
 permalink: /blog/
-title: "BLog"
-author_profile: false
+title: "Blog"
+author_profile: true
 header:
   overlay_image: /assets/images/header_landingpage.png
 sidebar:
