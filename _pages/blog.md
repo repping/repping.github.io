@@ -3,6 +3,9 @@ layout: archive
 classes: wide
 permalink: /blog/
 title: "Blog"
+author_profile: true
+header:
+  overlay_image: /assets/images/header_landingpage.png
 ---
 Hear, hear, Apples logo is now a pear!
 
@@ -10,7 +13,7 @@ Hear, hear, Apples logo is now a pear!
 #### posts
 ____
 {% for post in site.posts %}
-<a href="{{ post.url }}">{{ post.title }}</a><br>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2><br>
 {{ post.excerpt }}<br><br>
 {% endfor %}
 
