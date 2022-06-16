@@ -1,5 +1,6 @@
 ---
 layout: archive
+classes: wide
 permalink: /blog/
 title: "Blog"
 ---
@@ -11,7 +12,7 @@ ____
 {% for post in site.posts %}
 <a href="{{ post.url }}">{{ post.title }}</a><br>
 {{ post.excerpt }}<br><br>
-{% endfor %}|
+{% endfor %}
 
 
 
