@@ -9,8 +9,10 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 /*  Thumbnail-container custom CSS */
-// .thumbnail-container {
-//   padding-top: 20px;
-// }
+.thumbnail-container {
+  max-width: 250px;
+}
 
-// // .thumbnail-container img {}
+.thumbnail-container img {
+  padding-top: 15px;
+}
