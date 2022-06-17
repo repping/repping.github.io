@@ -15,10 +15,10 @@ header:
 
 {% for post in site.posts %}
 ___
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2><br>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {{ post.excerpt }}
 
-<br><br>
+<br>
 {% endfor %}
 
 
