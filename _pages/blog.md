@@ -3,11 +3,11 @@ layout: archive
 classes: wide
 permalink: /blog/
 title: "Blog"
-sidebar:
-  - title: "Blog"
-    image: /assets/images/500x300.png
-    image_alt: "image"
-    text: "Some text here."
+# sidebar:
+#   - title: "Blog"
+#     image: /assets/images/500x300.png
+#     image_alt: "image"
+#     text: "Some text here."
 author_profile: true
 header:
   overlay_image: /assets/images/header_landingpage.png
@@ -25,10 +25,8 @@ ___
     <img src="{{ teaser | relative_url }}" alt="">
   </div>
 {% endif %} -->
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
 {{ post.excerpt }}
-
-<br>
 {% endfor %}
 
 
