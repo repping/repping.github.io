@@ -15,18 +15,8 @@ header:
 
 {% for post in site.posts %}
 ___
-{% if teaser %}
-  <div class="thumbnail-container">
-    <img src="{{ teaser | relative_url }}" alt="">
-  </div>
-{% endif %}
-{% if post.teaser %}
-  <div class="thumbnail-container">
-    <img src="{{ post.teaser | relative_url }}" alt="">
-  </div>
-{% endif %}
 {% if post.header.teaser %}
-  <div class="thumbnail-container">
+  <div class="thumbnail-container" class="align-left">
     <img src="{{ post.header.teaser | relative_url }}" alt="">
   </div>
 {% endif %}
