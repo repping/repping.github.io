@@ -15,6 +15,21 @@ header:
 
 {% for post in site.posts %}
 ___
+{% if teaser %}
+  <div class="thumbnail-container">
+    <img src="{{ teaser | relative_url }}" alt="">
+  </div>
+{% endif %}
+{% if post.teaser %}
+  <div class="thumbnail-container">
+    <img src="{{ post.teaser | relative_url }}" alt="">
+  </div>
+{% endif %}
+<!-- {% if include.type == "list" and teaser %}
+  <div class="thumbnail-container">
+    <img src="{{ teaser | relative_url }}" alt="">
+  </div>
+{% endif %} -->
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {{ post.excerpt }}
 
