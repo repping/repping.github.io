@@ -25,7 +25,7 @@ ___
     <img src="{{ post.teaser | relative_url }}" alt="">
   </div>
 {% endif %}
-{% if post.teaser %}
+{% if post.header.teaser %}
   <div class="thumbnail-container">
     <img src="{{ post.header.teaser | relative_url }}" alt="">
   </div>
