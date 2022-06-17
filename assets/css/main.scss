@@ -7,3 +7,12 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/*  Thumbnail-container custom CSS */
+.thumbnail-container {
+  padding-top: 20px;
+}
+
+// .thumbnail-container img {
+
+// }
