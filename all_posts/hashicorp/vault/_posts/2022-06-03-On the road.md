@@ -9,11 +9,10 @@ header:
 tags: placeholder Ansible
 author_profile: true
 ---
-<img src=”/assets/images/500x300.png” align=”left” style=”margin: 0px 10px 0px 0px;” /><p>
-“Well-being is realised by small steps, but is no small thing.” -Wiseguy
+<img src=”/assets/images/500x300.png” style=”margin: 0px 10px 0px 0px; float: left;” />“Well-being is realised by small steps, but is no small thing.” -Wiseguy
 And I suppose the same thing goes for a a personal webpage. The first post is a small en perhaps meaningless article, but it is the first step to building a personal page.
 As long as you do not count installing/configuring Jekyll that is :)
-Now let's not forget about the good 'ol Lorem ipsum... every new and mostly empty webpage needs some Lorem ipsum:</p>
+Now let's not forget about the good 'ol Lorem ipsum... every new and mostly empty webpage needs some Lorem ipsum:
 
 ### Whatever after second
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rutrum, eros non scelerisque cursus, lacus lorem tincidunt justo, sed vehicula leo ligula sit amet magna. Nunc scelerisque dui leo, eget vestibulum ipsum faucibus quis. Quisque dui enim, tristique ac est cursus, mollis tincidunt libero. In id est bibendum, egestas eros ut, vulputate diam. Nullam vitae eros et magna dictum euismod. Aliquam laoreet tellus nec venenatis faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat dui augue, hendrerit interdum nisl facilisis ut. Nam a velit non nisl malesuada lacinia. Duis sapien nisl, eleifend quis facilisis sit amet, tristique non urna. Integer non vulputate turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque elementum pharetra nibh in tempus. Nulla ex orci, maximus eleifend turpis eu, rhoncus pellentesque sem. Aliquam pretium purus mauris, non porttitor nibh volutpat sit amet.
