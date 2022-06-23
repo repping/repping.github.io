@@ -18,8 +18,8 @@
       </div>
     {% endif %}
     {% if include.type == "list" and teaser %}
-      <div class="archive__item-teaser align-right">
-        <img src="{{ teaser | relative_url }}" class="thumbnail-container marginten" alt="">
+      <div class="archive__item-teaser align-right pagination-min-height">
+        <img src="{{ teaser | relative_url }}" class="thumbnail-container" alt="">
       </div>
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
