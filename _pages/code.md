@@ -6,7 +6,7 @@ title: "Code"
 
 # Automation & CI/CD
 
-This page gives an overview of CI/CD pipelines.  
+This page gives an overview Terraform modules and their CI/CD pipeline status.  
 <br><br><br>
 
 ![](https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg)
