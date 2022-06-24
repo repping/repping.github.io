@@ -1,12 +1,12 @@
 ---
 layout: single
 permalink: /code/
-title: "Code"
+title: ""
 ---
 
 # Automation & CI/CD
 
-This page gives an overview of the CI/CD pipelines.  
+This page gives an overview of CI/CD pipelines.  
 <br><br>
 
 | ![](https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg){: .cicd-logos} | |
