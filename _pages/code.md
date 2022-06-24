@@ -4,8 +4,6 @@ permalink: /code/
 title: "Code"
 ---
 
-# Automation & CI/CD
-
 This page gives an overview Terraform modules and their CI/CD pipeline status.  
 <br><br><br>
 
