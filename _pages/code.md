@@ -9,8 +9,7 @@ title: "Code"
 This page gives an overview of the CI/CD pipelines.  
 <br><br>
 
-| Terraform | |
+| ![](https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg) | |
 |-|-|
 |module|status|
-|-|-|
 |[terraform-vault-mariadb](https://github.com/repping/terraform-vault-mariadb)|![](https://github.com/repping/terraform-vault-mariadb/actions/workflows/terraform.yml/badge.svg?branch=main)|
