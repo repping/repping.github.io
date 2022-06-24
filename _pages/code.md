@@ -4,7 +4,7 @@ permalink: /code/
 title: "Code"
 ---
 
-This page gives an overview Terraform modules and their CI/CD pipeline status.  
+This page gives an overview of Terraform modules and their CI/CD pipeline status.  
 <br><br><br>
 
 ![](https://www.datocms-assets.com/2885/1620155113-brandhcterraformprimaryattributedcolor.svg)
