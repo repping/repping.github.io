@@ -10,9 +10,13 @@ search: false
 
 /*  Thumbnail-container custom CSS */
 .thumbnail-container {
-  max-width: 250px;
-  max-height: 150px;
+  width: 250px;
+  height: 150px;
   margin-top: 1em;
+}
+
+.thumbnail-container img {
+  max-height: 144px;
 }
 
 .linkedin-link-icon-fix {
