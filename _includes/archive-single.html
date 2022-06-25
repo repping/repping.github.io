@@ -18,7 +18,7 @@
       </div>
     {% endif %}
     {% if include.type == "list" and teaser %}
-      <div class="archive__item-teaser align-left" class="pagination-imgpreview">
+      <div class="archive__item-teaser align-left" style="max-width: 250px;max-height: 150px;">
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
