@@ -3,6 +3,7 @@ title: "Terraform: Pre- & Post conditions"
 excerpt: "But where does it all come from?"
 layout: single
 header:
+  teaser: https://img.youtube.com/vi/V9C6KtMMJfs/hqdefault.jpg
   video:
     id: "V9C6KtMMJfs"
     provider: "youtube"
