@@ -2,7 +2,9 @@
 excerpt: "But where does it all come from?"
 layout: single
 header:
-  teaser: /assets/images/500x300.png
+    video:
+    id: V9C6KtMMJfs
+    provider: youtube
   overlay_color: "#333"
   tags: placeholder video
 author_profile: true
