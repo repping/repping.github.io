@@ -1,6 +1,6 @@
 ---
-# excerpt: "But where does it all come from?"
-# excerpt_separator: <!--more-->
+excerpt: "But where does it all come from?"
+layout: single
 header:
   teaser: /assets/images/500x300.png
   overlay_color: "#333"
