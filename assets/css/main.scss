@@ -16,7 +16,8 @@ search: false
 }
 
 .thumbnail-container > img {
-  max-height: 144px;
+  width: 250px;
+  overflow: hidden;
 }
 
 .linkedin-link-icon-fix {
