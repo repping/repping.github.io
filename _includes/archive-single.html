@@ -11,7 +11,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="pagination-min-height archive__item" itemscope itemtype="https://schema.org/CreativeWork" style="min-height: 300px;">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork" style="min-height: 160px;">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="">
