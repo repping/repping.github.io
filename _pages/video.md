@@ -1,5 +1,8 @@
 ---
-layout: single
+layout: collection
+collection: videos
+entries_layout: grid
+classes: wide
 permalink: /video/
 title: "Video"
 ---
