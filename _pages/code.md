@@ -2,6 +2,8 @@
 layout: single
 permalink: /code/
 title: "Code"
+author_profile: true
+classes: wide
 ---
 
 This page gives an overview of Terraform modules and their CI/CD pipeline status.  

@@ -5,6 +5,7 @@ sidebar:
 title: "Presentations"
 header:
   overlay_image: /assets/images/header_landingpage.png
+classes: wide
 author_profile: true
 ---
 

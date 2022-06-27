@@ -1,6 +1,5 @@
 ---
 layout: archive
-classes: wide
 permalink: /blog/
 title: "Blog"
 # sidebar:
@@ -9,6 +8,7 @@ title: "Blog"
 #     image_alt: "image"
 #     text: "Some text here."
 author_profile: true
+classes: wide
 header:
   overlay_image: /assets/images/header_landingpage.png
 ---
