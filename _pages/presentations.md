@@ -2,28 +2,18 @@
 layout: single
 permalink: /presentations/
 sidebar:
-  - title: "Presentations"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
 title: "Presentations"
-excerpt: "excerpt"
 header:
   overlay_image: /assets/images/header_landingpage.png
-  actions:
-  - label: "Button"
-    url: "https://github.com"
+author_profile: true
 ---
 
 
-# Introduction
+My intent is to create all future presentations _"as code"_ and archive them here.
+<br><br><br>
 
-## Hashicorp Terraform
+<img src="https://www.datocms-assets.com/2885/1588890753-hashicorpprimarylogorgb.svg" style="background-color: black;max-width:350px;" alt="" />
 
-## Hashicorp Vault
-
-## Gitlab
-
-## Ansible
+|application|title|last updated|comment|
+|-|-|-|-|
+|other|[Placeholder for now...](https://repping.github.io/presentations)|2022-06-27|_to be determined_|
