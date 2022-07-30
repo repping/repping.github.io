@@ -17,4 +17,4 @@ The intent is to create all future presentations _"as code"_ and archive them he
 
 |application|title|last updated|comment|
 |-|-|-|-|
-|other|[Placeholder for now...](https://repping.github.io/presentations)|2022-06-27|_to be determined_|
+|other|[Placeholder for now...](https://repping.github.io/presentations/presentation.html)|2022-07-30|First presentation made with MARP, placeholder for now.|
