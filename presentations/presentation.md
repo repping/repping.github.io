@@ -15,7 +15,7 @@ h1 {
 }
 
 header {
-  background: url("./bild_black.png") no-repeat right 50px top 10px;
+  background: url("./Bild_Black.png") no-repeat right 50px top 10px;
   background-size: 40%;
   /* background-color: #0f0f0f; */
   position: absolute;
