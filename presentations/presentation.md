@@ -1,25 +1,54 @@
 ---
 marp: true
+header: ' '
 ---
 # Lists
 
 <style>
-.container {
-   display: grid;
-   grid-template-columns: 1fr 1fr;
-   grid-gap: 10px;
-   text-align: left;}
+/* @import "./template.css"; */
+
+h1 {
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-weight: 400;
+  font-size: 60px;
+  color: #0f0f0f;
+}
+
+header {
+  background: url("./bild_black.png") no-repeat right 50px top 10px;
+  background-size: 40%;
+  /* background-color: #0f0f0f; */
+  position: absolute;
+  /* box-shadow: 10px 15px 40px; */
+  left: 980px;
+  right: 0px;
+  height: 120px;
+  width: 300px;
+}
+
+section {
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(210,210,210,1) 100%);
+}
+
+.two-column {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  text-align: left;
+}
+
 </style>
-<div class="container">
+
+<div class="two-column">
   <div>
 
-- punt a
+- punt aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - punt b
   - punt b2  
   </div>
   <div>
 
-1. punt 1
+1. punt 1111111111111111111111111111111
 2. punt 2
    1. punt 2b
    
