@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "" # I left this one empty because header.overlay_images also show this ontop of the header image if no title is configured for that header. This way you can have a plain header.overlay_images, i.e. just a header image with nothing else.
 title_separator          : "-"
-subtitle                 : Personal Github page.
+subtitle                 : "@repping"
 name                     : "Richard Eppingbroek"
-description              : "@repping"
+description              : "A personal Github page."
 url                      : "repping.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "repping/repping.github.io"
