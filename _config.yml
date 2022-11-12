@@ -20,13 +20,13 @@ title                    : "" # I left this one empty because header.overlay_ima
 title_separator          : "-"
 subtitle                 : Personal Github page.
 name                     : "Richard Eppingbroek"
-description              : "My personal Github page."
+description              : "@repping"
 url                      : "repping.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "repping/repping.github.io"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Repping" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Richard Eppingbroek" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
